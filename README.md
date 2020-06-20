@@ -10,7 +10,7 @@ npm install vue-vbutton --save
 
 ```js
 import Vue from 'vue'
-import vButton from 'button'
+import vButton from 'vue-button'
 
 Vue.use(vButton)
 ```
