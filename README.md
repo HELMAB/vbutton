@@ -1,14 +1,12 @@
-vButton
-------
+# vButton
 
-
-# Installation
+## Installation
 
 ```npm
-npm install vbutton --save
+npm install vue-vbutton --save
 ```
 
-# Usage
+## Usage
 
 ```js
 import Vue from 'vue'
@@ -17,4 +15,4 @@ import vButton from 'button'
 Vue.use(vButton)
 ```
 
-# License (ISC)
+## License (ISC)

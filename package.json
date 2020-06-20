@@ -1,5 +1,5 @@
 {
-    "name": "vbutton",
+    "name": "vue-vbutton",
     "version": "1.0.0",
     "description": "vbutton",
     "main": ".src/index.js",
