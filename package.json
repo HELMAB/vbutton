@@ -1,6 +1,6 @@
 {
     "name": "vue-vbutton",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "vbutton",
     "main": "./src/index.js",
     "scripts": {
