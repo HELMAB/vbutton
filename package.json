@@ -2,7 +2,7 @@
     "name": "vue-vbutton",
     "version": "1.0.1",
     "description": "vbutton",
-    "main": ".src/index.js",
+    "main": "./src/index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
@@ -14,5 +14,9 @@
     "dependencies": {
         "bootstrap": "^4.5.0",
         "font-awesome": "^4.7.0"
-    }
+    },
+    "bugs": {
+        "url": "https://github.com/HELMAB/vbutton/issues"
+    },
+    "homepage": "https://github.com/HELMAB/vbutton#README"
 }
